@@ -16,3 +16,5 @@ styles - tutaj tutaj pliki ze stylami, najlepiej jest tworzyc kolejne pliki css 
 script - tutaj ewnetualnie bedzie JS i funkcjonalnosc narazie masz najprostrza funckje dodalem zebys wiedzial jak sie importuje js z innego pliku
 
 Konsole otiwerasz f12 albo prawy przycisk myszki i inspect
+
+Pamiętaj żeby często commitować, małe atomowe commity prostych zmian. 
