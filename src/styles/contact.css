@@ -1,0 +1,13 @@
+body{
+    background-color: #3D5A80;
+}
+.line{
+    background-color: orange;
+    width: 80%;
+    height: 1px;
+    margin-left: 50px;
+
+}
+.testContainer{
+    width: 500px;
+}
